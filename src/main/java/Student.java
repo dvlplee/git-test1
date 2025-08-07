@@ -8,4 +8,6 @@ public class Student {
     public String getName() {
         return name;
     }
+    
+    // 새로운 기능 추가
 }
